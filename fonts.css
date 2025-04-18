@@ -198,9 +198,27 @@ font-style: normal;
 
 /* pumpkin pie (pls give credit to @elainehan if used) */
 @font-face {
-font-family: 'pumpkin pie';
+font-family: pumpkin pie;
 src: url('https://cdn.statically.io/gh/not-elaine/pumpkin-pie/main/pumpkinpie-regular-webfont.woff2') format('woff2'),
 url('https://cdn.statically.io/gh/not-elaine/pumpkin-pie/main/pumpkinpie-regular-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* keep on truckin (pls give credit to @elainehan if used) */
+@font-face {
+font-family: keep on truckin;
+src: url('https://cdn.statically.io/gh/not-elaine/pumpkin-pie/main/KeeponTruckin.woff2') format('woff2'),
+url('https://cdn.statically.io/gh/not-elaine/pumpkin-pie/main/KeeponTruckin.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* this cafe (pls give credit to @elainehan if used) */
+@font-face {
+font-family: this cafe;
+src: url('https://cdn.statically.io/gh/not-elaine/pumpkin-pie/main/ThisCafe.woff2') format('woff2'),
+url('https://cdn.statically.io/gh/not-elaine/pumpkin-pie/main/ThisCafe.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
