@@ -1,8 +1,8 @@
 /* bestime (pls give credits to @elainehan if used) */
 @font-face {
 font-family: bestime;
-src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/Bestime.woff2') format('woff2'),
-url('https://raw.githubusercontent.com/not-elaine/fonts/main/Bestime.woff') format('woff');
+src: url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/Bestime.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/Bestime.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -10,8 +10,8 @@ font-style: normal;
 /* chewy bubble (pls give credits to @elainehan if used) */
 @font-face {
 font-family: chewy bubble;
-src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/ChewyBubble.woff2') format('woff2'),
-url('https://raw.githubusercontent.com/not-elaine/fonts/main/ChewyBubble.woff') format('woff');
+src: url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/ChewyBubble.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/ChewyBubble.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -19,8 +19,8 @@ font-style: normal;
 /* choco shake (pls give credits to @elainehan if used) */
 @font-face {
 font-family: choco shake;
-src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/ChocoShake.woff2') format('woff2'),
-url('https://raw.githubusercontent.com/not-elaine/fonts/main/ChocoShake.woff') format('woff');
+src: url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/ChocoShake.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/ChocoShake.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -28,8 +28,8 @@ font-style: normal;
 /* fancake (pls give credits to @elainehan if used) */
 @font-face {
 font-family: fancake;
-src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/Fancake.woff2') format('woff2'),
-url('https://raw.githubusercontent.com/not-elaine/fonts/main/Fancake.woff') format('woff');
+src: url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/Fancake.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/Fancake.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -37,8 +37,8 @@ font-style: normal;
 /* fresh fruit (pls give credits to @elainehan if used) */
 @font-face {
 font-family: fresh fruit;
-src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/FreshFruit.woff2') format('woff2'),
-url('https://raw.githubusercontent.com/not-elaine/fonts/main/FreshFruit.woff') format('woff');
+src: url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/FreshFruit.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/FreshFruit.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -46,8 +46,8 @@ font-style: normal;
 /* story (pls give credits to @elainehan if used) */
 @font-face {
 font-family: story;
-src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/Story.woff2') format('woff2'),
-url('https://raw.githubusercontent.com/not-elaine/fonts/main/Story.woff') format('woff');
+src: url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/Story.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/Story.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -55,8 +55,8 @@ font-style: normal;
 /* purple smile (pls give credits to @elainehan if used) */
 @font-face {
 font-family: purple smile;
-src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/PurpleSmile.woff2') format('woff2'),
-url('https://raw.githubusercontent.com/not-elaine/fonts/main/PurpleSmile.woff') format('woff');
+src: url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/PurpleSmile.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/PurpleSmile.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -64,8 +64,8 @@ font-style: normal;
 /* milkshake (pls give credits to @elainehan if used) */
 @font-face {
 font-family: milkshake;
-src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/MilkshakeCreps.woff2') format('woff2'),
-url('https://raw.githubusercontent.com/not-elaine/fonts/main/MilkshakeCreps.woff') format('woff');
+src: url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/MilkshakeCreps.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/MilkshakeCreps.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -199,8 +199,8 @@ font-style: normal;
 /* pumpkin pie (pls give credit to @elainehan if used) */
 @font-face {
 font-family: pumpkin pie;
-src: url('https://cdn.statically.io/gh/not-elaine/pumpkin-pie/main/pumpkinpie-regular-webfont.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/not-elaine/pumpkin-pie/main/pumpkinpie-regular-webfont.woff') format('woff');
+src: url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/pumpkinpie-regular-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/pumpkinpie-regular-webfont.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -208,8 +208,8 @@ font-style: normal;
 /* keep on truckin (pls give credit to @elainehan if used) */
 @font-face {
 font-family: keep on truckin;
-src: url('https://cdn.statically.io/gh/not-elaine/pumpkin-pie/main/KeeponTruckin.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/not-elaine/pumpkin-pie/main/KeeponTruckin.woff') format('woff');
+src: url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/KeeponTruckin.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/KeeponTruckin.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -217,8 +217,8 @@ font-style: normal;
 /* this cafe (pls give credit to @elainehan if used) */
 @font-face {
 font-family: this cafe;
-src: url('https://cdn.statically.io/gh/not-elaine/pumpkin-pie/main/ThisCafe.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/not-elaine/pumpkin-pie/main/ThisCafe.woff') format('woff');
+src: url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/ThisCafe.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/ThisCafe.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
