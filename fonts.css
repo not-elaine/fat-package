@@ -222,3 +222,12 @@ url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/ThisCafe.woff')
 font-weight: normal;
 font-style: normal;
 }
+
+/* mochido (pls give credit to @elainehan if used) */
+@font-face {
+font-family: mochido;
+src: url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/Mochido.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/Mochido.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
