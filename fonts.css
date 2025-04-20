@@ -231,3 +231,12 @@ url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/Mochido.woff') 
 font-weight: normal;
 font-style: normal;
 }
+
+/* fruit days (pls give credit to @elainehan if used) */
+@font-face {
+font-family: fruit days;
+src: url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/FruitDays.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fat-fonts/main/FruitDays.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
